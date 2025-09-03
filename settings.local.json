@@ -2,7 +2,7 @@
   "includeCoAuthoredBy": false,
   "permissions": {
     "allow": [
-      "Bash(sh .claude/commands/zqgame/init/init-workspace.sh)",
+      "Bash(sh .claude/commands/init/init-workspace.sh)",
       "Bash(mkdir:*)",
       "Bash(grep:*)",
       "Bash(mv:*)",
